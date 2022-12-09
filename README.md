@@ -1,2 +1,2 @@
 # Proyecto-1
-Mi primer proyecto
+Mi primer proyecto, sigo sin entender bien git xD
